@@ -6,4 +6,7 @@ Gather your trainning data using data_collector.py and train it in Cascade Train
 
 
 
+![ScreenShot of My Projects](https://i.imgur.com/PmDi8pr.png)
+
+
 [Cascade Trainer GUI App]:https://amin-ahmadi.com/cascade-trainer-gui/
